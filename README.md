@@ -8,3 +8,7 @@ Main page -
 Creating new Form -
 
 ![alt text](https://www.upload.ee/image/9858436/3.png)
+
+Modify form -
+
+![alt text](https://www.upload.ee/image/9858449/4.png)
